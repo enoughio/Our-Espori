@@ -100,7 +100,7 @@ export default function WhyChooseUs() {
           viewport={{ once: true }}
           transition={{ duration: 0.6 }}
         >
-          <h2 className="text-3xl md:text-4xl font-bold text-blue-900 dark:text-blue-100 mb-4">Why Espoir?</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-blue-900 dark:text-blue-100 mb-4">Why Espori?</h2>
           <p className="text-blue-700 dark:text-blue-300 max-w-2xl mx-auto">Why do top brands trust us?</p>
         </motion.div>
 

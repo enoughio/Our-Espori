@@ -93,7 +93,7 @@ export default function WhyWorkWithUs() {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-3xl md:text-4xl font-bold text-blue-900 dark:text-blue-100 mb-4">Why Work With Us?</h2>
-          <p className="text-blue-700 dark:text-blue-300 max-w-2xl mx-auto">What makes Espoir different?</p>
+          <p className="text-blue-700 dark:text-blue-300 max-w-2xl mx-auto">What makes Espori different?</p>
         </motion.div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">

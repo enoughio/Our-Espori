@@ -9,9 +9,9 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Espoir - Software Development Company",
+  title: "Espori - Software Development Company",
   description:
-    "Espoir helps businesses scale with high-performance software solutions, AI-driven automation, and user-first designs.",
+    "Espori helps businesses scale with high-performance software solutions, AI-driven automation, and user-first designs.",
     generator: 'v0.dev'
 }
 

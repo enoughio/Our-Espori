@@ -26,12 +26,12 @@ export default function TeamSection() {
       id: 1,
       name: "John Doe",
       position: "CEO",
-      bio: "Driving the vision & growth of Espoir with over 15 years of experience in software development and business leadership.",
+      bio: "Driving the vision & growth of Espori with over 15 years of experience in software development and business leadership.",
       image: "/placeholder.svg?height=400&width=400",
       social: {
         linkedin: "#",
         twitter: "#",
-        email: "john@espoirtech.com",
+        email: "john@esporitech.com",
       },
     },
     {
@@ -43,7 +43,7 @@ export default function TeamSection() {
       social: {
         linkedin: "#",
         twitter: "#",
-        email: "jane@espoirtech.com",
+        email: "jane@esporitech.com",
       },
     },
     {
@@ -55,7 +55,7 @@ export default function TeamSection() {
       social: {
         linkedin: "#",
         twitter: "#",
-        email: "alex@espoirtech.com",
+        email: "alex@esporitech.com",
       },
     },
     {
@@ -67,7 +67,7 @@ export default function TeamSection() {
       social: {
         linkedin: "#",
         twitter: "#",
-        email: "michael@espoirtech.com",
+        email: "michael@esporitech.com",
       },
     },
   ]
@@ -85,7 +85,7 @@ export default function TeamSection() {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-3xl md:text-4xl font-bold text-blue-900 dark:text-blue-100 mb-4">Meet the Team</h2>
-          <p className="text-blue-700 dark:text-blue-300 max-w-2xl mx-auto">The experts behind Espoir's success</p>
+          <p className="text-blue-700 dark:text-blue-300 max-w-2xl mx-auto">The experts behind Espori's success</p>
         </motion.div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">

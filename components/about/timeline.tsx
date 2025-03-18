@@ -55,7 +55,7 @@ export default function Timeline() {
       year: "2015",
       title: "Founded with a vision to innovate in software",
       description:
-        "Espoir was established by a team of passionate developers with a mission to create innovative software solutions.",
+        "Espori was established by a team of passionate developers with a mission to create innovative software solutions.",
     },
     {
       year: "2017",

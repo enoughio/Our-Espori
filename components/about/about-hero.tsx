@@ -71,7 +71,7 @@ export default function AboutHero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.2 }}
           >
-            At Espoir, we create high-performance software solutions that empower businesses worldwide. With a team of
+            At Espori, we create high-performance software solutions that empower businesses worldwide. With a team of
             top-tier developers and designers, we push boundaries to build the future.
           </motion.p>
 

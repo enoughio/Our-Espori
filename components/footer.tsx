@@ -12,11 +12,11 @@ export default function Footer() {
           <div>
             <Link href="/" className="inline-block mb-4">
               <span className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-indigo-400 bg-clip-text text-transparent">
-                Espoir
+                Espori
               </span>
             </Link>
             <p className="text-blue-300 mb-6 max-w-md">
-              Espoir is a leading software development company dedicated to delivering cutting-edge digital solutions
+              Espori is a leading software development company dedicated to delivering cutting-edge digital solutions
               that empower businesses worldwide.
             </p>
             <div className="flex space-x-4">
@@ -80,7 +80,7 @@ export default function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <Mail className="h-5 w-5 mr-3 text-blue-400 mt-0.5" />
-                <span className="text-blue-300">contact@espoirtech.com</span>
+                <span className="text-blue-300">contact@esporitech.com</span>
               </li>
               <li className="flex items-start">
                 <Phone className="h-5 w-5 mr-3 text-blue-400 mt-0.5" />
@@ -110,7 +110,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-blue-800 mt-12 pt-6 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-blue-400 text-sm">&copy; {new Date().getFullYear()} Espoir. All rights reserved.</p>
+          <p className="text-blue-400 text-sm">&copy; {new Date().getFullYear()} Espori. All rights reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <Link href="/privacy" className="text-blue-400 text-sm hover:text-white transition-colors">
               Privacy Policy

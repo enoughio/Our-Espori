@@ -6,9 +6,9 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 export default function FaqSection() {
   const faqs = [
     {
-      question: "What services does Espoir offer?",
+      question: "What services does Espori offer?",
       answer:
-        "Espoir offers a comprehensive range of software development services including custom software development, web and mobile app development, AI and cloud solutions, UI/UX design, cybersecurity, and ongoing maintenance and support.",
+        "Espori offers a comprehensive range of software development services including custom software development, web and mobile app development, AI and cloud solutions, UI/UX design, cybersecurity, and ongoing maintenance and support.",
     },
     {
       question: "How long does a typical project take to complete?",

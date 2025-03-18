@@ -10,8 +10,8 @@ export default function ContactInfo() {
     {
       icon: <Mail className="h-5 w-5" />,
       title: "Email",
-      value: "contact@espoirtech.com",
-      link: "mailto:contact@espoirtech.com",
+      value: "contact@esporitech.com",
+      link: "mailto:contact@esporitech.com",
     },
     {
       icon: <Phone className="h-5 w-5" />,

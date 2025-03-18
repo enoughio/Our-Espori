@@ -26,7 +26,7 @@ export default function Testimonials() {
       position: "CEO",
       company: "TechCorp",
       quote:
-        "Espoir transformed our operations with a seamless AI-powered solution. Their team was proactive, skilled, and always ahead of the curve.",
+        "Espori transformed our operations with a seamless AI-powered solution. Their team was proactive, skilled, and always ahead of the curve.",
       rating: 5,
       image: "/placeholder.svg?height=100&width=100",
     },
@@ -35,7 +35,7 @@ export default function Testimonials() {
       name: "Sarah Smith",
       position: "CTO",
       company: "FinTech Co",
-      quote: "Our SaaS platform scaled 3x after Espoir redesigned our backend infrastructure. Absolute game-changer!",
+      quote: "Our SaaS platform scaled 3x after Espori redesigned our backend infrastructure. Absolute game-changer!",
       rating: 5,
       image: "/placeholder.svg?height=100&width=100",
     },
@@ -45,7 +45,7 @@ export default function Testimonials() {
       position: "Product Director",
       company: "HealthTech Inc",
       quote:
-        "Working with Espoir was a breeze. They delivered our healthcare platform ahead of schedule with all the advanced features we needed.",
+        "Working with Espori was a breeze. They delivered our healthcare platform ahead of schedule with all the advanced features we needed.",
       rating: 5,
       image: "/placeholder.svg?height=100&width=100",
     },

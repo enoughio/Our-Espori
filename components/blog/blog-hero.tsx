@@ -111,7 +111,7 @@ export default function BlogHero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
           >
-            Stay Ahead with Espoir Insights
+            Stay Ahead with Espori Insights
           </motion.h1>
 
           <motion.p

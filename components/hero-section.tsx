@@ -109,7 +109,7 @@ export default function HeroSection() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.2 }}
             >
-              Espoir helps businesses scale with high-performance software solutions, AI-driven automation, and
+              Espori helps businesses scale with high-performance software solutions, AI-driven automation, and
               user-first designs.
             </motion.p>
 
